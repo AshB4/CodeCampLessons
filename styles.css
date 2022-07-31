@@ -4,7 +4,10 @@ font-size: 100px;
 text-align: center;
 }
 body{
-    background-color: #50508d;
+    background: #0DC1CE;
+background: -moz-linear-gradient(left, #0DC1CE 0%, #1C6EA4 50%, #1C10C5 100%);
+background: -webkit-linear-gradient(left, #0DC1CE 0%, #1C6EA4 50%, #1C10C5 100%);
+background: linear-gradient(to right, #0DC1CE 0%, #1C6EA4 50%, #1C10C5 100%);;
 }
 p {
     font-family: Helvetica;
