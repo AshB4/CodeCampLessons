@@ -1,4 +1,13 @@
 h1{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-font-size: 100px
+    font-family: Tahoma;
+font-size: 100px;
+text-align: center;
+}
+body{
+    background-color: #50508d;
+}
+p {
+    font-family: Helvetica;
+    text-align: center;
+    font-size: 50px;
 }
